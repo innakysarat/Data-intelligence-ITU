@@ -1,2 +1,2 @@
 # Data Intelligence, ITU
-There's a data analysis conducted on the dataset
+In this repository, there's a data analysis conducted on the dataset ("employee-data.csv")
